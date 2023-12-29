@@ -22,7 +22,9 @@ To get started with this project, follow the instructions below.
 
 3. Install the required dependencies:
 
-    npm install
+    ```bash
+    npm i
+
     This command will read the package.json file and install the necessary libraries.
 
 4. Running the Application
