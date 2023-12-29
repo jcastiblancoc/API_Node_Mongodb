@@ -25,7 +25,7 @@ To get started with this project, follow the instructions below.
     ```bash
     npm i
 
-    This command will read the package.json file and install the necessary libraries.
+This command will read the package.json file and install the necessary libraries.
 
 4. Running the Application
     To run the application, use the following command:
